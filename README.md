@@ -29,6 +29,6 @@ There are also certain items and entities that will make it more difficult to re
 
 ## Gameplay Screenshots
 
-(https://github.com/dsham2840/SPACE_EXPLORER/blob/master/screenshot1.png)
-(https://github.com/dsham2840/SPACE_EXPLORER/blob/master/screenshot2.png)
+![Screenshot1](https://github.com/dsham2840/SPACE_EXPLORER/blob/master/screenshot1.png)
+![Screenshot2](https://github.com/dsham2840/SPACE_EXPLORER/blob/master/screenshot2.png)
 
