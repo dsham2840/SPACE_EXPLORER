@@ -4,9 +4,8 @@ Space Explorer is a platformer game made using Python and Pygame in Mr. Cooper's
 
 This game follows a brave explorer who battles through his home planet and flies through space, visiting alien worlds and piloting his rocket ship. 
 
-You can find all of the files for the game to download [here](http://github.com/dsham2840/SPACE_EXPLORER).
+You can find all of the files for the game to download in a ZIP file [here](https://github.com/dsham2840/SPACE_EXPLORER/archive/master.zip).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Gameplay
 
