@@ -1,0 +1,46 @@
+{
+	"name": "Departure",
+	"width": 73,
+	"height": 10,
+	"background-color": [130, 182, 255],
+	"background-img": "assets/backgrounds/departure_scenery3.png",
+	"background-position": "top",
+	"background-repeat-x": 1,
+	"background-fill-y": 1,
+	"scenery-img": "assets/backgrounds/departure_forest.png",
+	"scenery-position": "bottom",
+	"scenery-repeat-x": 1,
+	"scenery-fill-y": 1,
+	"music": "assets/sounds/level2.wav",
+	"start": [4, 8],
+	"gravity": 1.0,
+	"terminal-velocity": 32,
+	"blocks": [ [0, 9, "DM"], [1, 9, "DM"], [2, 9, "DM"], [3, 9, "DM"], [4, 9, "DM"], [5, 9, "DM"],
+		[6, 9, "DM"], [7, 9, "DM"], [0, 7, "DM"],  [13, 9, "DM"],[50, 8, "DM"],
+		[14, 9, "DM"], [15, 9, "DM"], [16, 9, "DM"], [25, 8, "DM"], [33, 8, "DM"],
+		[26, 9, "DM"], [27, 9, "DM"], [28, 9, "DM"], [29, 9, "DM"], [30, 9, "DM"], [31, 9, "DM"],
+		[32, 9, "DM"],[36, 9, "DM"], [37, 9, "DM"], [38, 9, "DM"], [39, 9, "DM"], [40, 9, "DM"],
+		[41, 9, "DM"], [42, 9, "DM"], [43, 9, "DM"], [44, 9, "DM"],  [51, 9, "DM"],
+		[52, 9, "DM"], [53, 9, "DM"], [54, 9, "DM"], [55, 8, "DM"],[56, 7, "DM"], [57, 6, "DM"],
+		 [59, 9, "DM"], [60, 9, "DM"], [61, 9, "DM"], [72, 9, "DM"],[5, 6, "DM"], [58, 9, "DM"],
+
+		[9, 4, "DF"],  [10,3, "DF"], [64, 8, "DF"], [67, 7, "DF"], [68, 6, "DF"],
+
+		[4, 6, "DCL"], [19, 8, "DCL"], [22, 7, "DCL"], [46, 7, "DCL"],
+
+		[6, 6, "DCR"], [20, 8, "DCR"], [23, 7, "DCR"], [47, 7, "DCR"],
+
+		[25, 9, "DC"], [33, 9, "DC"], [55, 9, "DC"], [56, 9, "DC"], [57, 7, "DC"],
+		[56, 8, "DC"], [57, 8, "DC"], [57, 9, "DC"], [50, 9, "DC"]],
+
+	"bears": [[30,8], [32, 8], [53, 8], [55, 6], [57, 4]],
+	"monsters": [[5, 5], [15, 8], [38, 8]],
+  	"coins": [ [11, 3], [14,7], [15,7], [19,6], [21,5], [29, 7], [30, 7], [31,7],
+		[40, 7], [41,7], [42,7], [60, 8], [61,8]],
+	"oneups": [[10, 6]],
+	"hearts": [[60, 4], [2,8]],
+	"flag": [[72, 5], [72, 6], [72, 7], [72, 8]],
+	"invinc" : [],
+	"speedy" : [[8, 0]],
+	"slowed" : []
+}
