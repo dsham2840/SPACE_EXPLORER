@@ -29,7 +29,8 @@ There are also certain items and entities that will make it more difficult to re
 
 ## Gameplay Screenshots
 
-
+!(https://github.com/dsham2840/SPACE_EXPLORER/blob/master/screenshot1.png)
+!(https://github.com/dsham2840/SPACE_EXPLORER/blob/master/screenshot2.png)
 
 1. Numbered
 2. List
