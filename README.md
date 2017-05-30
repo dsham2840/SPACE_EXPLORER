@@ -9,10 +9,10 @@ You can find all of the files for the game to download in a ZIP file [here](http
 
 ## Gameplay
 
-# Controls
+### Controls
 The controls for Space Explorer are easy! To control your player, you simply use the arrow keys. Left and right arrows move in their respective directions, and the up arrow jumps. To toggle sound, click the 'S' key on your keyboard. To toggle music, click the 'M' key on your keyboard.
 
-# Objectives
+### Objectives
 In Space Explorer, your only objective is to make it to the flag for all of the levels! There are currently 3 levels in the game that you must complete to beat the game. 
 
 In each level, there are certain items that will assist you in getting to the flag. These items include:
@@ -27,15 +27,9 @@ There are also certain items and entities that will make it more difficult to re
 - Octopus: Enemy that will continue moving until they collide with a block, where they will bounce off and continue to move unless they fall into a hole
 - Alien: Enemy that will bounce back and forth on the platform that it is sitting on
 
-```markdown
-Syntax highlighted code block
+## Gameplay Screenshots
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
